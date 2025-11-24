@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	// bool (True/False)
+	// Bool (True/False)
 	fmt.Printf("type: %T-value: %v\n", true, true)
 
 	// String - sequencia de bytes (tudo que tiver entre aspas)
